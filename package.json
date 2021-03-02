@@ -1,5 +1,5 @@
 {
-  "name": "type-it",
+  "name": "typing-cli",
   "version": "1.0.0",
   "description": "This is a simple code for a typewriter effect in cli",
   "main": "App.js",
