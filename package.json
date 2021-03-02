@@ -1,0 +1,23 @@
+{
+  "name": "type-it",
+  "version": "1.0.0",
+  "description": "This is a simple code for a typewriter effect in cli",
+  "main": "App.js",
+  "dependencies": {
+    "log-update": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/TYPE-IT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/TYPE-IT/issues"
+  },
+  "homepage": "https://github.com/alestor123/TYPE-IT#readme"
+}
